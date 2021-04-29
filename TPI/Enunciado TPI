@@ -8,6 +8,7 @@ En el caso de las veterinarias se deben certificar con su número de matrícula.
 Los demás prestadores no matriculados, no cuentan con esa certificación.
 
 A tener en cuenta:
+
 -  Planteamos un sistema en un principio gratuito, similar a una mini red social
 - Nos centramos en estos servicio y en un futuro se pueden extender a mas sub-servicios afines
 - Planteamos una vinculación con la api: google maps, con el menú en donde escribimos la dirección, con eso google nos devuelva latitud y longitud para mostrar en un mapa.
